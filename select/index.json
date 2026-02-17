@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "サイレントマジョリティー",
+  "base_artist": "欅坂46",
+  "createdAt": "2026-02-17T08:57:05.027838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー",
+      "artist": "欅坂46",
+      "has_synced": true,
+      "path": "select/01_サイレントマジョリティー_欅坂46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/02_サイレントマジョリティー_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー",
+      "artist": "大森靖子",
+      "has_synced": true,
+      "path": "select/03_サイレントマジョリティー_大森靖子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー off vocal ver.",
+      "artist": "Keyakizaka46",
+      "has_synced": false,
+      "path": "select/04_サイレントマジョリティー_off_vocal_ver._Keyakizaka46.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー",
+      "artist": "Keyakizaka46",
+      "has_synced": false,
+      "path": "select/05_サイレントマジョリティー_Keyakizaka46.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー (off vocal ver.)",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/06_サイレントマジョリティー_(off_vocal_ver.)_欅坂46.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー -off vocal ver.-",
+      "artist": "櫻坂46",
+      "has_synced": true,
+      "path": "select/07_サイレントマジョリティー_-off_vocal_ver.-_櫻坂46.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サイレントマジョリティー",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/08_サイレントマジョリティー_Sakurazaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイレントマジョリティー",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_サイレントマジョリティー_欅坂46.txt"
+    }
+  ]
+}
